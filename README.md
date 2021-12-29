@@ -11,6 +11,6 @@ just easily copy and paste the codes into your project.
 
 Codes is in `app/http/controllers/XMLCOntroller.php`
 
-##Routs :
+## Routs :
 - `domain/create_xml` 
 - `domain/read-xml`
